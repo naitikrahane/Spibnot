@@ -1,0 +1,9 @@
+telegram:
+  token: 7154619308:AAGRDM-aEGF8-bVNgmZCnR1tmTcJBV42uQg
+  superuser_id: 1013338533
+db:
+  host: pg-2484e824-lucky1234.g.aivencloud.com
+  port: 25173
+  user: avnadmin
+  database: defaultdb
+  password: AVNS_dq8d6j179SNYJCX0Paz
